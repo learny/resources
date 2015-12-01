@@ -1,8 +1,8 @@
 # Ressources
-------------
+============
 
-## Veille 
-=========
+# Veille 
+--------
 
 ### Logiciels / Apps
 
@@ -68,3 +68,29 @@
 + [Alsacreations](http://www.alsacreations.com/) 
 
    Inspiration, conseils, tutos, articles sur les outils de dev, des librairies javascript
+
+
+# Frameworks / Librairies
+-------------------------
+
+## Javascript
+
++ [JQuery]()
+
+   Librairie permettant de "simplifier" le maniement du DOM (il faut tout de même penser à connaitre le JavaScript pur plutôt que d'utiliser JQuery quand on en a pas réellement besoin).
+   [À lire absolument](http://putaindecode.io/fr/articles/js/de-jquery-a-vanillajs/)
+
+
++ [Meteor]()
+
+   Framework client-serveur
+   
+   Intérêts :
+
+   - Web sockets intégrés
+   - Nombreux paquets à ajouter au projet
+   - Workflow simplifié
+   - Export en app mobiles (iOS, Android, Windows Phone)
+
+
+
