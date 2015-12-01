@@ -2,74 +2,69 @@
 ------------
 
 ## Veille 
----------
+=========
 
 ### Logiciels / Apps
 
 + [Feedly](https://feedly.com/)
 
-⋅⋅⋅ Clients web, Android, iOS
+   C'est celui que j'utilise, je le conseille vivement
+   Clients web, Android, iOS
 
 + [The Old Reader](https://theoldreader.com/)
 
-⋅⋅⋅ Client web
+   Client web
 
-### Flux RSS
+### Flux RSS / Twitter
 
 #### Web
 
-+ La ferme du web :
++ [La ferme du web](http://www.lafermeduweb.net/veille/) :
 
-⋅⋅⋅ Ressources Javascript surtout mais aussi bash, python, PHP
+   Ressources Javascript surtout mais aussi bash, python, PHP.
 
-+  Grafikart.fr
++ [Grafikart.fr](http://www.grafikart.fr/)
 
-⋅⋅⋅ Ressources et tutos principalement axés HTML/CSS
+   Ressources et tutos principalement axés HTML/CSS
 
-+ Devmag
++ [Devmag](http://devmag.fr/)
 
-⋅⋅⋅ Magazine sur des acteurs du web français
+   Magazine sur des acteurs du web français
 
-+ CssTricks 
++ [CssTricks](https://css-tricks.com/) 
 
-⋅⋅⋅ Ressources principalement frontend
+   Ressources principalement frontend
 
-+ Codrops
++ [Codrops](http://tympanus.net/codrops/)
 
-⋅⋅⋅ Ressources avec exemples de code et tuto
-
+   Ressources avec exemples de code et tuto
 
 ### Technologie
 
-+ The Next Web
++ [The Next Web](thenextweb.com/)
 
-⋅⋅⋅ Infos sur le monde du web et de la tech en général
+   Infos sur le monde du web et de la tech en général
 
-+ Korben 
++ [Korben](http://korben.info/)
 
-⋅⋅⋅ Blogueur intéressé par le web, le hack, les objets connectés, l’open source, etc…
+   Blogueur intéressé par le web, le hack, les objets connectés, l’open source, etc…
 
-### Linux 
+### Linux / Open-source
 
-+ Framasoft
++ [Framasoft](http://framasoft.net/)
 
-⋅⋅⋅ Asso française qui promeut le libre, l’open source et propose des solutions alternatives à Google, à suivre pour avoir des articles intéressant sur le monde du libre
-
-+ Blog Libre
-
-⋅⋅⋅ 
+   Asso française qui promeut le libre, l’open source et propose des solutions alternatives à Google, à suivre pour avoir des articles intéressant sur le monde du libre
 
 ### Design / art
 
-+ Line25
++ [Line25](http://line25.com/)
 
-⋅⋅⋅ Inspiration pour dev front et graphistes
+   Inspiration pour dev front et graphistes
 
-+ Stéphanie Walter
++ [Stéphanie Walter](http://blog.stephaniewalter.fr/)
 
-⋅⋅⋅ Inspiration pour dev front et graphistes
+   Inspiration pour dev front et graphistes
 
-+ Alsacreations 
++ [Alsacreations](http://www.alsacreations.com/) 
 
-⋅⋅⋅ Inspiration, articles sur les outils de dev, des librairies javascript
-
+   Inspiration, conseils, tutos, articles sur les outils de dev, des librairies javascript
